@@ -1,5 +1,4 @@
 ### Hello there!
-- 🔭 I’m currently working on Discord Bot development
 - 🌱 I’m currently learning c#
 - 👯 I’m looking to collaborate on intresting stuffs
 - 🤔 I’m looking for something new
